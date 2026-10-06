@@ -132,7 +132,10 @@ apresentados no dashboard.
 > Adicione um recurso no app que permita à pessoa usuária fazer perguntas em linguagem natural sobre seus gastos, categorias e metas e use um
 modelo para gerar respostas e sugestões personalizadas com base nos dados financeiros dela usando o AI Gateway.
 
----
+
+## 🎯 Resultado Final
+
+Acesse o protótipo funcional no Lovable:  https://exact-capture-frame-39.lovable.app
 
 ## 🧠 Reflexão
 
